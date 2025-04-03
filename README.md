@@ -1,1 +1,2 @@
-# Logistic-Regression
+# This repository is a comprehensive guide to Logistic Regression, covering both theoretical concepts and practical implementations.It explores topics such as the sigmoid function, cost function, regularization (L1, L2, Elastic Net), hyperparameter tuning, class imbalance, and multiclass classification strategies (OvR, Softmax).
+# The practical section provides hands-on Python scripts for training Logistic Regression models, tuning hyperparameters using GridSearchCV and RandomizedSearchCV, handling class imbalance, feature scaling, model evaluation with metrics like Precision, Recall, F1-score, ROC-AUC, and MCC, and visualizing performance through confusion matrices and precision-recall curves.
